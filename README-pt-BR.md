@@ -1,16 +1,9 @@
-<!--
-Original file: /README.md
-English version: 2023-03-20
-Last translation update: 2023-03-20
-Translated by: Paula Silva
--->
-
 # 🚀 Programa Dev Pods: Pioneirismo na Excelência de Desenvolvedores
 
-![Logo Dev Pods](../../images/dev-pod-logo.png)
+![Logo Dev Pods](images/dev-pod-logo.png)
 
-[🇺🇸 English](../../README.md) | 
-[🇪🇸 Español (Latinoamérica)](../es-LATAM/README.md)
+[🇺🇸 English](./README.md) | 
+[🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
 
 ## 🌟 Transformando o Desenvolvimento Através de Comunidades de Elite
 
@@ -135,26 +128,26 @@ O programa Dev Pods opera em colaboração com parceiros de tecnologia de elite 
 
 ## 🌐 Idiomas
 
-Este projeto está disponível em múltiplos idiomas. Veja nosso [Status de Tradução](../../TRANSLATION_STATUS.md) para detalhes.
+Este projeto está disponível em múltiplos idiomas. Veja nosso [Status de Tradução](./TRANSLATION_STATUS.md) para detalhes.
 
-- [🇺🇸 English](../../README.md)
-- [🇪🇸 Español (Latinoamérica)](../es-LATAM/README.md)
+- [🇺🇸 English](./README.md)
+- [🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
 
 ## 🤝 Contribuição
 
-Contribuições para este repositório são bem-vindas. Veja o [guia de contribuição](../../CONTRIBUTING.md) para detalhes.
+Contribuições para este repositório são bem-vindas. Veja o [guia de contribuição](./CONTRIBUTING.md) para detalhes.
 
 ## 📋 Código de Conduta
 
-Este projeto adere a um [Código de Conduta](../../CODE_OF_CONDUCT.md) que todos os participantes devem seguir.
+Este projeto adere a um [Código de Conduta](./CODE_OF_CONDUCT.md) que todos os participantes devem seguir.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](../../LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
 
 ---
 
 <p align="center">
 <b>Programa Dev Pods: Estabelecendo Ilhas de Excelência no Oceano do Desenvolvimento</b><br>
 © 2025 Developer Productivity, Global Black Belt and Developer Relations Team from Microsoft
-</p>
+</p> 

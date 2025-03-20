@@ -1,16 +1,9 @@
-<!--
-Original file: /README.md
-English version: 2023-03-20
-Last translation update: 2023-03-20
-Translated by: Paula Silva
--->
-
 # 🚀 Programa Dev Pods: Pioneros en la Excelencia de Desarrolladores
 
-![Logo Dev Pods](../../images/dev-pod-logo.png)
+![Logo Dev Pods](images/dev-pod-logo.png)
 
-[🇺🇸 English](../../README.md) | 
-[🇧🇷 Português (Brasil)](../pt-BR/README.md)
+[🇺🇸 English](./README.md) | 
+[🇧🇷 Português (Brasil)](./README-pt-BR.md)
 
 ## 🌟 Transformando el Desarrollo a través de Comunidades de Élite
 
@@ -135,26 +128,26 @@ El programa Dev Pods opera en colaboración con socios tecnológicos de élite q
 
 ## 🌐 Idiomas
 
-Este proyecto está disponible en múltiples idiomas. Vea nuestro [Estado de Traducción](../../TRANSLATION_STATUS.md) para detalles.
+Este proyecto está disponible en múltiples idiomas. Vea nuestro [Estado de Traducción](./TRANSLATION_STATUS.md) para detalles.
 
-- [🇺🇸 English](../../README.md)
-- [🇧🇷 Português (Brasil)](../pt-BR/README.md)
+- [🇺🇸 English](./README.md)
+- [🇧🇷 Português (Brasil)](./README-pt-BR.md)
 
 ## 🤝 Contribución
 
-Las contribuciones a este repositorio son bienvenidas. Vea la [guía de contribución](../../CONTRIBUTING.md) para detalles.
+Las contribuciones a este repositorio son bienvenidas. Vea la [guía de contribución](./CONTRIBUTING.md) para detalles.
 
 ## 📋 Código de Conducta
 
-Este proyecto se adhiere a un [Código de Conducta](../../CODE_OF_CONDUCT.md) que todos los participantes deben seguir.
+Este proyecto se adhiere a un [Código de Conducta](./CODE_OF_CONDUCT.md) que todos los participantes deben seguir.
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](../../LICENSE) para detalles.
+Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](./LICENSE) para detalles.
 
 ---
 
 <p align="center">
 <b>Programa Dev Pods: Estableciendo Islas de Excelencia en el Océano del Desarrollo</b><br>
 © 2025 Developer Productivity, Global Black Belt and Developer Relations Team from Microsoft
-</p>
+</p> 

@@ -1,9 +1,9 @@
 # 🚀 The Dev Pods Program: Pioneering Developer Excellence
 
-![Dev Pods Banner](https://via.placeholder.com/1200x300?text=Dev+Pods+Program)
+![Dev Pods Logo](images/dev-pod-logo.png)
 
-[🇧🇷 Português (Brasil)](./translations/pt-BR/README.md) | 
-[🇪🇸 Español (Latinoamérica)](./translations/es-LATAM/README.md)
+[🇧🇷 Português (Brasil)](./README-pt-BR.md) | 
+[🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
 
 ## 🌟 Transforming Development Through Elite Communities
 
