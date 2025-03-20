@@ -28,7 +28,7 @@ The Dev Pods program aims to provide tools, practices, and methodologies that op
 Sustainable improvement requires internal champions who can continue driving adoption and innovation after the formal program concludes. By creating communities of highly skilled specialists within client organizations, the program ensures long-term impact and continued evolution of practices.
 
 ### Detailed Objective
-The program seeks to identify, train, and empower groups of highly skilled specialists (Black Belts) within clients' organizations who will serve as internal champions for best practices and innovation.
+The program seeks to identify, train, and empower groups of highly skilled specialists (Black Belts) within clients' organizations who will serve as internal champions for best practices and innovation. These communities will continue the program and drive innovation with the support of selected partners.
 
 ### Implementation Strategies
 - **Selection Process**: Identifying candidates with both technical aptitude and leadership potential
@@ -82,7 +82,27 @@ The program focuses on improving communication and collaboration between DevRel 
 - Increased participation in community events
 - Enhancement in stakeholder satisfaction with development processes
 
-## 5. Accelerate Return on Investment
+## 5. Provide Continuous Support
+
+### Rationale
+Implementing new practices and technologies requires consistent support and guidance. Without adequate assistance, organizations may struggle to overcome obstacles and fully realize the benefits of new approaches.
+
+### Detailed Objective
+The program ensures participants have access to ongoing technical support and consultancy from TSPs and CSU throughout the program, ensuring they have the necessary resources to succeed.
+
+### Implementation Strategies
+- **Technical Support Channels**: Establishing clear pathways for receiving assistance with implementation challenges
+- **Consultancy Services**: Providing expert advice on adapting practices to specific contexts
+- **Troubleshooting Resources**: Creating reference materials for addressing common obstacles
+- **Regular Check-ins**: Scheduling periodic reviews to identify and address emerging issues
+
+### Success Indicators
+- Resolution rate of reported implementation challenges
+- Participant satisfaction with support services
+- Time to resolution for technical issues
+- Proportion of participants successfully implementing program recommendations
+
+## 6. Accelerate Return on Investment
 
 ### Rationale
 Technology investments must demonstrate tangible business value. By focusing on practices that deliver rapid and measurable improvements, the program helps organizations realize value quickly and build momentum for further investment.
@@ -120,4 +140,4 @@ The needs and experiences of developers and other users must remain central to a
 
 ## Conclusion
 
-The objectives of the Dev Pods program are designed to work in concert, creating a comprehensive approach to improving development practices. By addressing productivity, community building, knowledge sharing, collaboration, and business value simultaneously, the program aims to deliver transformative and sustainable improvements to participating organizations.
+The objectives of the Dev Pods program are designed to work in concert, creating a comprehensive approach to improving development practices. By addressing productivity, community building, knowledge sharing, collaboration, continuous support, and business value simultaneously, the program aims to deliver transformative and sustainable improvements to participating organizations.

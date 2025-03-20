@@ -15,9 +15,9 @@ Este documento rastreia o status de todas as traduções em português dos docum
 
 | Arquivo | Status | Última Atualização | Tradutor | Observações |
 |---------|--------|-------------------|----------|------------|
-| [README.md](./README.md) | 🔄 | 2023-03-20 | - | Versão inicial |
+| [README.md](./README.md) | ✅ | 2023-03-20 | Paula Silva | Versão completa |
 | [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) | ✅ | 2023-03-20 | - | Versão completa |
-| [CONTRIBUTING.md](./CONTRIBUTING.md) | ❌ | - | - | Ainda não iniciado |
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | ✅ | 2023-03-20 | Paula Silva | Versão completa |
 
 ## Documentação (diretório /docs)
 

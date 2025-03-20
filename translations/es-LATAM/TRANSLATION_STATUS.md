@@ -15,9 +15,9 @@ Este documento rastrea el estado de todas las traducciones al español de los do
 
 | Archivo | Estado | Última Actualización | Traductor | Observaciones |
 |---------|--------|-------------------|----------|------------|
-| [README.md](./README.md) | ❌ | - | - | No iniciado |
-| [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) | ❌ | - | - | No iniciado |
-| [CONTRIBUTING.md](./CONTRIBUTING.md) | ❌ | - | - | No iniciado |
+| [README.md](./README.md) | ✅ | 2023-03-20 | Paula Silva | Versión completa |
+| [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) | ✅ | 2023-03-20 | Paula Silva | Versión completa |
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | ✅ | 2023-03-20 | Paula Silva | Versión completa |
 
 ## Documentación (directorio /docs)
 

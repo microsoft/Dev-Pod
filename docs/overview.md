@@ -16,9 +16,41 @@ At its core, the Dev Pods program is built on the belief that developer producti
 
 4. **Continuous Learning and Adaptation**: Encouraging a culture of ongoing improvement and adaptation to emerging technologies and methodologies.
 
+## Program Objectives
+
+The Dev Pods program has six primary objectives:
+
+### 1. Increase Developer Productivity
+
+The Dev Pod program aims to provide tools and practices that optimize the time and effort of developers, enhancing their overall productivity. By focusing on automation, streamlined workflows, and AI-assisted development, developers can focus on high-value creative work.
+
+### 2. Form Black Belt Communities
+
+The program seeks to create groups of highly skilled specialists within clients' organizations. These communities will continue the program and drive innovation with the support of selected partners, ensuring sustainability beyond the formal program period.
+
+### 3. Promote Scalability and Knowledge Replication
+
+By utilizing public repositories and other tools, the program aims to disseminate knowledge widely and efficiently, ensuring scalability and replication of best practices across organizations and teams.
+
+### 4. Enhance Integration and Collaboration
+
+The program focuses on improving communication and collaboration between DevRel teams, partners, and clients, facilitating a more cohesive and effective working environment with reduced barriers to coordination.
+
+### 5. Provide Continuous Support
+
+Participants will have access to ongoing technical support and consultancy from TSPs and CSU throughout the program, ensuring they have the necessary resources to succeed in implementing new practices and technologies.
+
+### 6. Accelerate Return on Investment
+
+By encouraging the adoption of recommended practices, the program aims to deliver quick and tangible benefits to clients, accelerating their return on investment in development tools and methodologies.
+
 ## Program Structure
 
 The Dev Pods program is structured as a 6-month journey through increasingly advanced levels of development practices and tools:
+
+### Duration
+
+The program will last up to 6 months, providing a complete journey of training and development.
 
 ### Foundation Levels (Months 1-2)
 - **Level 00**: Git fundamentals and version control practices
@@ -26,7 +58,7 @@ The Dev Pods program is structured as a 6-month journey through increasingly adv
 - **Level 100**: Introduction to AI assistance with GitHub Copilot
 
 ### Intermediate Levels (Months 3-4)
-- **Level 200**: Language-specific applications of GitHub Copilot
+- **Level 200**: Language-specific applications of GitHub Copilot (JavaScript/Python/C#)
 - **Level 200**: Advanced security practices with GitHub
 - **Level 300**: Data integration with AI tools
 - **Level 300**: Migration strategies and practices
