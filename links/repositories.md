@@ -47,7 +47,7 @@ This document provides a comprehensive listing of all repositories associated wi
 ## Security and Migration Repositories
 
 ### Advanced Security Integration (Level 200)
-- **Repository URL**: [github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)
+- **Repository URL**: [github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)
 - **Description**: Workshop in Portuguese focused on GitHub Advanced Security, teaching prevention of common security issues, AI-powered vulnerability detection and remediation, and dependency management best practices.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active

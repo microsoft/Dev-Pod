@@ -1,146 +1,68 @@
-# Perguntas Frequentes (FAQ) - Programa Dev Pods
+# Frequently Asked Questions (FAQ)
 
-Este documento responde às perguntas mais comuns sobre o programa Dev Pods, seu funcionamento, requisitos e benefícios.
+## About the Dev Pods Program
 
-## Sobre o Programa
+### What is the Dev Pods Program?
+The Dev Pods Program is an exclusive, invitation-only initiative designed to transform how organizations build software in the AI era. It's a six-month program that helps organizations establish internal communities of technical virtuosos (Black Belts) who will drive innovation for years to come.
 
-### O que é o programa Dev Pods?
-O programa Dev Pods é uma iniciativa de 6 meses projetada para transformar a maneira como as organizações abordam o desenvolvimento de software através de ferramentas com tecnologia de IA, comunidades colaborativas e práticas de compartilhamento de conhecimento sustentáveis. O programa combina treinamento estruturado, aplicação prática e desenvolvimento de comunidade para melhorar a produtividade dos desenvolvedores.
+### How is this different from regular technical training?
+Unlike traditional training that focuses solely on individual skills, the Dev Pods Program creates self-sustaining centers of excellence within your organization. The program builds a community structure and knowledge architecture that continues delivering value long after the formal program concludes.
 
-### Qual é a duração do programa?
-O programa tem duração de 6 meses, divididos em fases progressivas que constroem habilidades desde fundamentos até aplicações avançadas.
+## Program Logistics
 
-### O que diferencia o programa Dev Pods de outros treinamentos técnicos?
-Diferentemente de treinamentos técnicos tradicionais que se concentram apenas em transferência de conhecimento, o programa Dev Pods:
-- Estabelece comunidades internas autossustentáveis (Black Belts) que continuam gerando valor após o término do programa formal
-- Incorpora ferramentas de IA de ponta para desenvolvimento de software
-- Oferece certificações oficiais GitHub reconhecidas pelo mercado
-- Fornece uma abordagem holística que integra pessoas, processos e tecnologia
-- É personalizado para atender às necessidades específicas de cada organização
+### How long is the program?
+The Dev Pods Program runs for six months, with a carefully structured progression from foundational skills to advanced innovation.
 
-## Requisitos e Elegibilidade
+### What is the time commitment required?
+Participants typically dedicate 4-6 hours per week to program activities, including workshops, hands-on labs, and community building exercises. Black Belt candidates will invest additional time in leadership development and community facilitation.
 
-### Quem pode participar do programa Dev Pods?
-O programa é projetado para organizações de desenvolvimento de software e suas equipes técnicas. Os participantes típicos incluem desenvolvedores, líderes técnicos, gerentes de engenharia e profissionais de DevOps.
+### Is this program available globally?
+Yes, the Dev Pods Program is available globally, with content currently provided in English, Portuguese, and Spanish. Additional language support is being developed.
 
-### Quais são os requisitos técnicos para participar?
-Os requisitos técnicos básicos incluem:
-- Conhecimento básico de programação
-- Familiaridade com controle de versão (preferência por Git)
-- Acesso a um ambiente de desenvolvimento
-- Disponibilidade para instalação de GitHub Copilot e ferramentas relacionadas
+## Participation & Requirements
 
-### Qual é o nível de comprometimento de tempo esperado?
-Os participantes devem estar preparados para dedicar:
-- 4-6 horas por semana para sessões de treinamento e workshops
-- 2-3 horas adicionais para prática e aplicação
-- Tempo adicional para candidatos a Black Belt envolvidos em atividades de mentoria e desenvolvimento de comunidade
+### Who should participate in the program?
+The program is ideal for organizations looking to elevate their development capabilities through AI-assisted productivity tools, community excellence, and modern development practices. Participants should have basic development experience.
 
-### Nossa organização usa tecnologias/linguagens de programação específicas. O programa é adaptável?
-Sim, o programa Dev Pods é altamente personalizável e pode ser adaptado para diferentes linguagens de programação (JavaScript, Python, C#, etc.), estruturas de desenvolvimento e ambientes de trabalho específicos da organização.
+### What technical prerequisites are there?
+Participants should have foundational programming knowledge and experience with at least one programming language. No prior experience with GitHub Copilot or advanced AI tools is required.
 
-## Estrutura e Conteúdo
+### How many people from my organization should participate?
+For optimal results, we recommend at least 15-20 developers participate, with 3-5 identified as potential Black Belt candidates who will lead your internal community after the program.
 
-### Como o programa está estruturado?
-O programa segue uma estrutura de níveis progressivos:
-- **Fase de Fundação**: Git, GitHub e fundamentos do GitHub Copilot
-- **Fase de Aceleração**: Aplicações específicas de linguagem com GitHub Copilot
-- **Fase de Excelência**: Segurança avançada e práticas de migração
-- **Fase de Inovação**: Extensões personalizadas e engenharia de plataforma
+## Certification & Recognition
 
-### O que são os níveis do programa?
-Os níveis representam estágios progressivos de domínio técnico:
-- **Nível 00-50**: Fundamentos de Git e GitHub
-- **Nível 100**: Fundamentos do GitHub Copilot
-- **Nível 200**: Aplicações de IA específicas de linguagem e segurança
-- **Nível 300**: Engenharia de dados e práticas de migração
-- **Nível 400**: Desenvolvimento de extensões e engenharia de plataforma
+### What certifications are included?
+Participants receive vouchers for official GitHub certifications, including GitHub Foundations, GitHub Copilot, and GitHub Advanced Security certifications.
 
-### O que são as comunidades Black Belt?
-As comunidades Black Belt são grupos de especialistas internos que são formados durante o programa para:
-- Servir como campeões internos de práticas avançadas de desenvolvimento
-- Fornecer mentoria e orientação contínua
-- Liderar iniciativas de inovação
-- Garantir a continuidade e evolução do programa após seu término formal
-- Atuar como multiplicadores de conhecimento dentro da organização
+### What is the Black Belt recognition?
+The Black Belt designation recognizes individuals who have demonstrated both technical excellence and community leadership capabilities. These individuals become your internal champions who will lead your development excellence community.
 
-## Certificações e Reconhecimentos
+### How are Black Belts selected?
+Black Belt candidates are identified based on their technical proficiency, leadership potential, and community-building capabilities. They undergo additional training in facilitating technical communities and receive specialized recognition.
 
-### Que certificações estão incluídas no programa?
-O programa inclui vouchers para as seguintes certificações oficiais do GitHub:
-- [GitHub Foundations](https://examregistration.github.com/certification/GHF)
-- [GitHub Copilot](https://examregistration.github.com/certification/COPILOT)
-- [GitHub Advanced Security](https://examregistration.github.com/certification/GHAS)
+## Technical Content
 
-### Como funciona o processo de certificação Black Belt?
-A certificação Black Belt é um reconhecimento interno que inclui:
-1. Treinamento especializado em todas as áreas do programa
-2. Demonstração de proficiência técnica
-3. Desenvolvimento de habilidades de liderança e mentoria
-4. Contribuição para a comunidade e base de conhecimento
-5. Avaliação formal por facilitadores do programa
+### What technologies are covered?
+The program covers Git, GitHub, GitHub Copilot, GitHub Advanced Security, as well as AI-assisted development practices across multiple programming languages including JavaScript, Python, and C#.
 
-## Benefícios e Resultados
+### Does the program focus on specific programming languages?
+While the program includes language-specific modules for JavaScript, Python, and C#, the core principles and practices apply to development in any language environment.
 
-### Quais benefícios posso esperar para minha organização?
-As organizações participantes tipicamente experimentam:
-- Maior produtividade dos desenvolvedores
-- Qualidade de código aprimorada
-- Redução de débito técnico
-- Melhoria na colaboração entre equipes
-- Aceleração do tempo de lançamento de produtos
-- Capacidade de inovação aprimorada
-- Melhor retenção de talentos técnicos
+### Will this program help with our legacy codebase?
+Yes, the program includes modules on strategic migration engineering and AI-assisted maintenance that are specifically designed to improve work with existing codebases.
 
-### Como o programa mede o sucesso?
-O programa utiliza uma estrutura abrangente de medição que inclui:
-- Métricas de produtividade do desenvolvedor
-- Indicadores de qualidade de código
-- Desenvolvimento de conhecimento e habilidades
-- Adoção e engajamento com o programa
-- Benefícios organizacionais e de negócios
+## Results & Outcomes
 
-### O que acontece quando o programa termina?
-Após a conclusão do programa formal:
-- A comunidade Black Belt continua operando como centro de excelência
-- Mecanismos de suporte contínuo são estabelecidos
-- Planos de sustentabilidade de longo prazo são implementados
-- Roteiros de inovação guiam o desenvolvimento futuro
-- A organização mantém acesso a recursos e materiais
+### What measurable outcomes can we expect?
+Organizations completing the program typically report 40% faster onboarding of new developers, 63% reduction in critical production issues, and a 94% satisfaction rate among technical teams.
 
-## Implementação e Logística
+### How do we measure success?
+The program includes built-in metrics tracking for key indicators like code quality, development velocity, and knowledge sharing. We'll help you establish baselines and track improvements throughout the program.
 
-### Como o programa é entregue?
-O programa é entregue através de:
-- Workshops interativos e sessões práticas
-- Material de treinamento abrangente
-- Hackathons e eventos de aplicação prática
-- Sessões de mentoria
-- Acesso a repositórios de conhecimento
-- Comunidades de prática
+### What happens after the program ends?
+The program is designed to create self-sustaining communities. After completion, your certified Black Belts will continue leading internal excellence communities, applying the frameworks and practices established during the program.
 
-### Existe suporte disponível durante o programa?
-Sim, os participantes têm acesso a:
-- Facilitadores e especialistas técnicos
-- Suporte contínuo da equipe do programa
-- Comunidade de participantes para aprendizado entre pares
-- Recursos e documentação abrangentes
+---
 
-### Como começar?
-Para iniciar o programa Dev Pods em sua organização:
-1. Realize uma avaliação inicial de prontidão
-2. Identifique objetivos específicos e áreas de foco
-3. Selecione equipes e participantes iniciais
-4. Estabeleça infraestrutura técnica necessária
-5. Defina métricas de linha de base e KPIs
-6. Inicie a implementação faseada do programa
-
-## Informações Adicionais
-
-Para obter mais informações sobre o programa Dev Pods, consulte:
-- [Visão Geral do Programa](./overview.md)
-- [Comunidade Black Belt](./community/black-belt.md)
-- [Cronograma do Programa](../schedule/overview.md)
-- [KPIs e Métricas](./kpis.md)
-
-Para perguntas específicas não cobertas neste FAQ, entre em contato com a equipe do programa Dev Pods.
+If you have additional questions not covered here, please contact your Microsoft representative or email devpods@example.com.

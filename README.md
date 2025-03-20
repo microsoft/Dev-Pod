@@ -2,8 +2,8 @@
 
 ![Dev Pods Logo](images/dev-pod-logo.png)
 
-[🇧🇷 Português (Brasil)](./README-pt-BR.md) | 
-[🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
+[🇧🇷 Português (Brasil)](./translations/pt-BR/README.md) | 
+[🇪🇸 Español (Latinoamérica)](./translations/es-LATAM/README.md)
 
 ## 🌟 Transforming Development Through Elite Communities
 
@@ -41,7 +41,7 @@ The Dev Pods Program guides participants through a carefully structured progress
 - **[Level 300 - AI-Powered Data Engineering](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: Revolutionize how you work with data using advanced AI capabilities in CI/CD environments and data pipelines
 
 ### Excellence Phase: Building Organizational Capabilities
-- **[Level 200 - Advanced Security Integration](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: Implement AI-powered security practices that prevent vulnerabilities and maintain dependency health
+- **[Level 200 - Advanced Security Integration](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Implement AI-powered security practices that prevent vulnerabilities and maintain dependency health
 - **[Level 300 - Strategic Migration Engineering](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Master the art of seamless migration with GitHub Actions Importer and structured migration planning
 
 ### Innovation Phase: Leading the Future

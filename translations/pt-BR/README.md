@@ -1,16 +1,9 @@
-<!--
-Original file: /README.md
-English version: 2023-03-20
-Last translation update: 2023-03-20
-Translated by: Paula Silva
--->
-
 # 🚀 Programa Dev Pods: Pioneirismo na Excelência de Desenvolvedores
 
-![Logo Dev Pods](../../images/dev-pod-logo.png)
+![Logo Dev Pods](images/dev-pod-logo.png)
 
-[🇺🇸 English](../../README.md) | 
-[🇪🇸 Español (Latinoamérica)](../es-LATAM/README.md)
+[🇺🇸 English](./README.md) | 
+[🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
 
 ## 🌟 Transformando o Desenvolvimento Através de Comunidades de Elite
 
@@ -44,7 +37,7 @@ O Programa Dev Pods guia os participantes através de uma progressão cuidadosam
 - **[Nível 300 - Engenharia de Dados Potencializada por IA](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: Revolucione como você trabalha com dados usando capacidades avançadas de IA em ambientes CI/CD e pipelines de dados
 
 ### Fase de Excelência: Construindo Capacidades Organizacionais
-- **[Nível 200 - Integração Avançada de Segurança](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: Implemente práticas de segurança potencializadas por IA que previnem vulnerabilidades e mantêm a saúde das dependências
+- **[Nível 200 - Integração Avançada de Segurança](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Implemente práticas de segurança potencializadas por IA que previnem vulnerabilidades e mantêm a saúde das dependências
 - **[Nível 300 - Engenharia Estratégica de Migração](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Domine a arte da migração perfeita com GitHub Actions Importer e planejamento estruturado de migração
 
 ### Fase de Inovação: Liderando o Futuro
@@ -135,22 +128,22 @@ O programa Dev Pods opera em colaboração com parceiros de tecnologia de elite 
 
 ## 🌐 Idiomas
 
-Este projeto está disponível em múltiplos idiomas. Veja nosso [Status de Tradução](../../TRANSLATION_STATUS.md) para detalhes.
+Este projeto está disponível em múltiplos idiomas. Veja nosso [Status de Tradução](./TRANSLATION_STATUS.md) para detalhes.
 
-- [🇺🇸 English](../../README.md)
-- [🇪🇸 Español (Latinoamérica)](../es-LATAM/README.md)
+- [🇺🇸 English](./README.md)
+- [🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
 
 ## 🤝 Contribuição
 
-Contribuições para este repositório são bem-vindas. Veja o [guia de contribuição](../../CONTRIBUTING.md) para detalhes.
+Contribuições para este repositório são bem-vindas. Veja o [guia de contribuição](./CONTRIBUTING.md) para detalhes.
 
 ## 📋 Código de Conduta
 
-Este projeto adere a um [Código de Conduta](../../CODE_OF_CONDUCT.md) que todos os participantes devem seguir.
+Este projeto adere a um [Código de Conduta](./CODE_OF_CONDUCT.md) que todos os participantes devem seguir.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](../../LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
 
 ---
 
