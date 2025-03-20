@@ -23,6 +23,10 @@ In a landscape crowded with technical workshops and certifications, the Dev Pods
 - **Elite Technical Leadership**: Cultivate the next generation of technical leaders who bridge the gap between business vision and technical execution.
 - **Accelerated Innovation Cycles**: Implement practices that dramatically reduce the time from concept to production-ready code.
 
+## ❓ Frequently Asked Questions
+
+Have questions about the Dev Pods Program? Check out our [Frequently Asked Questions (FAQ)](./docs/faq.md) for answers about program requirements, time commitment, certification process, and how this program differs from traditional technical training.
+
 ## 🔄 The Exclusive Six-Month Transformation Journey
 
 The Dev Pods Program guides participants through a carefully structured progression that builds mastery from fundamentals to advanced innovation:
@@ -54,9 +58,30 @@ The crown jewel of the Dev Pods Program is the formation of Black Belt communiti
 - Create **measurable competitive advantages** through technical excellence
 - Bridge the gap between **business vision and technical execution**
 
-Organizations with established Black Belt communities report **40% faster onboarding of new developers**, **63% reduction in critical production issues**, and a **remarkable 94% satisfaction rate** among technical teams. The return on investment becomes self-evident as these communities drive continuous improvement long after the formal program concludes.
+Organizations with established Black Belt communities report **40% faster onboarding of new developers**, **63% reduction in critical production issues**, and a **remarkable 94% satisfaction rate** among technical teams. These communities drive continuous improvement long after the formal program concludes.
 
 [Explore the exclusive Black Belt community →](https://github.com/devpods/black-belt-community)
+
+## 🎓 Official GitHub Certifications
+
+As part of the Dev Pods program, participants receive vouchers for official GitHub certifications that validate their expertise and enhance their professional credentials:
+
+### GitHub Foundations Certification
+- Validates understanding of GitHub fundamentals
+- Available in English, Portuguese, Spanish, Korean, Japanese
+- [Register for certification →](https://examregistration.github.com/certification/GHF)
+
+### GitHub Copilot Certification
+- Validates expertise with AI-assisted development
+- Covers prompt engineering, responsible AI practices, and developer workflows
+- [Register for certification →](https://examregistration.github.com/certification/COPILOT)
+
+### GitHub Advanced Security Certification
+- Validates expertise with security features and practices
+- Includes secret scanning, dependency review, and code scanning with CodeQL
+- [Register for certification →](https://examregistration.github.com/certification/GHAS)
+
+Certification vouchers are distributed at appropriate stages of the program to align with the skills being developed.
 
 ## 🌊 The Transformative Journey
 
@@ -71,32 +96,39 @@ Organizations with established Black Belt communities report **40% faster onboar
 
 [View the complete transformation roadmap →](https://github.com/devpods/events)
 
-## 📈 Proven Organizational Transformation
+## 📈 Program Benefits Framework
 
-Organizations that complete the Dev Pods Program experience transformative outcomes that directly impact business success:
+The Dev Pods Program delivers value across multiple dimensions:
 
-### Measurable Business Impact
-- **89% reduction** in time spent on routine coding tasks
-- **72% decrease** in time required for code reviews
-- **94% faster** bug identification and resolution
-- **217% increase** in feature delivery velocity
-- **40% improvement** in code security metrics
+### Developer Effectiveness
+- Enhanced productivity through AI-assisted development
+- Improved code quality and reduced defects
+- Streamlined collaboration and knowledge sharing
+- Optimized resource utilization
+- Accelerated onboarding and skill development
 
-### Cultural Transformation
+### Professional Development
+- Industry-recognized GitHub certifications
+- Technical leadership opportunities
+- Specialized expertise in cutting-edge tools
+- Mentorship and coaching skills
+- Career advancement pathways
+
+### Organizational Transformation
 - Shift from isolated development to collaborative excellence
 - Evolution from reactive to proactive quality practices
 - Transformation from knowledge hoarding to strategic knowledge sharing
 - Elevation of developers from code writers to strategic problem solvers
-- Continuous innovation becomes embedded in organizational DNA
+- Continuous innovation embedded in organizational DNA
 
 ### Strategic Advantages
-- Build a self-reinforcing community of technical excellence
-- Create a magnetic environment that attracts and retains top talent
-- Establish sustainable knowledge preservation systems
-- Develop proprietary development practices tailored to your unique challenges
-- Achieve consistently superior software quality that drives business outcomes
+- Self-reinforcing communities of technical excellence
+- Talent attraction and retention improvements
+- Sustainable knowledge preservation systems
+- Custom development practices for unique challenges
+- Consistently superior software quality
 
-[See detailed success metrics and case studies →](https://github.com/devpods/metrics)
+[See our comprehensive benefits framework →](https://github.com/devpods/benefits)
 
 ## 🔄 Comprehensive Program Elements
 
