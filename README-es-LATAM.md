@@ -32,8 +32,8 @@ En un panorama lleno de talleres técnicos y certificaciones, el Programa Dev Po
 El Programa Dev Pods guía a los participantes a través de una progresión cuidadosamente estructurada que construye maestría desde los fundamentos hasta la innovación avanzada:
 
 ### Fase de Fundación: Dominando los Fundamentos del Desarrollo
-- **[Nivel 00 - Maestría en Git](https://github.com/devpods/git-basics)**: Establezca excelencia en control de versiones como la base para todo lo que sigue
-- **[Nivel 50 - Colaboración en GitHub](https://github.com/devpods/github-basics)**: Transforme cómo los equipos colaboran, revisan y gestionan código juntos
+- **[Nivel 00 - Maestría en Git](./content/git-basics/)**: Establezca excelencia en control de versiones como la base para todo lo que sigue
+- **[Nivel 50 - Colaboración en GitHub](./content/github-basics/)**: Transforme cómo los equipos colaboran, revisan y gestionan código juntos
 
 ### Fase de Aceleración: Aprovechando la IA para el Desarrollo
 - **[Nivel 100 - Fundamentos de GitHub Copilot](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: Comience el viaje del desarrollo aumentado por IA con instalación, verificación y dominio de técnicas básicas de solicitud
@@ -60,7 +60,7 @@ La joya de la corona del Programa Dev Pods es la formación de comunidades de Ci
 
 Organizaciones con comunidades de Cinturón Negro establecidas reportan **40% más rápida incorporación de nuevos desarrolladores**, **63% de reducción en problemas críticos de producción**, y una **notable tasa de satisfacción del 94%** entre equipos técnicos. Estas comunidades impulsan la mejora continua mucho tiempo después de que concluya el programa formal.
 
-[Explore la comunidad exclusiva de Cinturón Negro →](https://github.com/devpods/black-belt-community)
+[Explore la comunidad exclusiva de Cinturón Negro →](./content/black-belt-community/)
 
 ## 🎓 Certificaciones Oficiales de GitHub
 
@@ -94,7 +94,7 @@ Los vouchers de certificación se distribuyen en etapas apropiadas del programa 
 | Mes 5 | Hackathon de Innovación y Extensiones Personalizadas de IA | Crear ventajas competitivas propietarias |
 | Mes 6 | Ingeniería de Plataforma y Certificación de Cinturón Negro | Establecer comunidades de excelencia autosostenibles |
 
-[Vea la hoja de ruta completa de transformación →](https://github.com/devpods/events)
+[Vea la hoja de ruta completa de transformación →](./content/events/)
 
 ## 📈 Marco de Beneficios del Programa
 
@@ -128,7 +128,7 @@ El Programa Dev Pods entrega valor en múltiples dimensiones:
 - Prácticas de desarrollo personalizadas para desafíos únicos
 - Calidad de software consistentemente superior
 
-[Vea nuestro marco completo de beneficios →](https://github.com/devpods/benefits)
+[Vea nuestro marco completo de beneficios →](./content/benefits/)
 
 ## 🔄 Elementos Completos del Programa
 
@@ -156,7 +156,7 @@ El Programa Dev Pods ofrece un sistema completo de transformación:
 
 El programa Dev Pods opera en colaboración con socios tecnológicos de élite que mejoran y extienden las capacidades del programa.
 
-[Descubra nuestra red de alianzas estratégicas →](https://github.com/devpods/partners)
+[Descubra nuestra red de alianzas estratégicas →](./content/partners/)
 
 ## 📄 Licencia
 

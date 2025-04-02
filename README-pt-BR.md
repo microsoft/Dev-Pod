@@ -32,8 +32,8 @@ Tem perguntas sobre o Programa Dev Pods? Confira nossas [Perguntas Frequentes (F
 O Programa Dev Pods guia os participantes através de uma progressão cuidadosamente estruturada que constrói maestria desde os fundamentos até a inovação avançada:
 
 ### Fase de Fundação: Dominando os Fundamentos de Desenvolvimento
-- **[Nível 00 - Maestria em Git](https://github.com/devpods/git-basics)**: Estabeleça excelência em controle de versão como a base para tudo que segue
-- **[Nível 50 - Colaboração no GitHub](https://github.com/devpods/github-basics)**: Transforme como equipes colaboram, revisam e gerenciam código juntas
+- **[Nível 00 - Maestria em Git](./content/git-basics/)**: Estabeleça excelência em controle de versão como a base para tudo que segue
+- **[Nível 50 - Colaboração no GitHub](./content/github-basics/)**: Transforme como equipes colaboram, revisam e gerenciam código juntas
 
 ### Fase de Aceleração: Aproveitando a IA para Desenvolvimento
 - **[Nível 100 - Fundamentos do GitHub Copilot](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: Inicie a jornada de desenvolvimento aumentado por IA com instalação, verificação e domínio de técnicas básicas de prompt
@@ -60,7 +60,7 @@ A joia da coroa do Programa Dev Pods é a formação de comunidades Faixa Preta 
 
 Organizações com comunidades Faixa Preta estabelecidas relatam **40% mais rapidez na integração de novos desenvolvedores**, **63% de redução em problemas críticos de produção**, e uma **notável taxa de satisfação de 94%** entre equipes técnicas. Estas comunidades impulsionam a melhoria contínua muito tempo após a conclusão do programa formal.
 
-[Explore a comunidade exclusiva Faixa Preta →](https://github.com/devpods/black-belt-community)
+[Explore a comunidade exclusiva Faixa Preta →](./content/black-belt-community/)
 
 ## 🎓 Certificações Oficiais do GitHub
 
@@ -94,7 +94,7 @@ Vouchers de certificação são distribuídos em estágios apropriados do progra
 | Mês 5 | Hackathon de Inovação e Extensões Personalizadas de IA | Criar vantagens competitivas proprietárias |
 | Mês 6 | Engenharia de Plataforma e Certificação Faixa Preta | Estabelecer comunidades de excelência autossustentáveis |
 
-[Veja o roteiro completo de transformação →](https://github.com/devpods/events)
+[Veja o roteiro completo de transformação →](./content/events/)
 
 ## 📈 Estrutura de Benefícios do Programa
 
@@ -128,7 +128,7 @@ O Programa Dev Pods entrega valor em múltiplas dimensões:
 - Práticas de desenvolvimento personalizadas para desafios únicos
 - Qualidade de software consistentemente superior
 
-[Veja nossa estrutura abrangente de benefícios →](https://github.com/devpods/benefits)
+[Veja nossa estrutura abrangente de benefícios →](./content/benefits/)
 
 ## 🔄 Elementos Abrangentes do Programa
 
@@ -156,7 +156,7 @@ O Programa Dev Pods oferece um sistema completo de transformação:
 
 O programa Dev Pods opera em colaboração com parceiros tecnológicos de elite que aprimoram e estendem as capacidades do programa.
 
-[Descubra nossa rede de alianças estratégicas →](https://github.com/devpods/partners)
+[Descubra nossa rede de alianças estratégicas →](./content/partners/)
 
 ## 📄 Licença
 

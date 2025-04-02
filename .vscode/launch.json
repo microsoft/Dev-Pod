@@ -1,0 +1,135 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Databases List",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/bin/Debug/net9.0/azmcp.exe",
+            "args": [
+                "cosmos",
+                "database",
+                "list",
+                "--subscription",
+                "${input:subscription}",
+                "--retry-max-retries", 
+                "0"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "env": {
+                "DOTNET_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Debug Tools List",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/bin/Debug/net9.0/azmcp.exe",
+            "args": [
+                "tools",
+                "list"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "env": {
+                "DOTNET_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Debug Monitor Table List",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/bin/Debug/net9.0/azmcp.exe",
+            "args": [
+                "monitor",
+                "table",
+                "list",
+                "--subscription",
+                "25fd0362-aa79-488b-b37b-d6e892009fdf"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "env": {
+                "DOTNET_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Debug Monitor Log Query",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/bin/Debug/net9.0/azmcp.exe",
+            "args": [
+                "monitor",
+                "log",
+                "query",
+                "--subscription",
+                "25fd0362-aa79-488b-b37b-d6e892009fdf",
+                "--workspace-id",
+                "5a9c0f6e-cb75-481b-b018-1a6c6b67e089",
+                "--query",
+                "recent"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "env": {
+                "DOTNET_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Launch MCP Server",
+            "type": "node",
+            "request": "launch",
+            "runtimeExecutable": "node",
+            "runtimeArgs": [
+                "${workspaceFolder}/mcp-server/server.js"
+            ],
+            "cwd": "${workspaceFolder}/mcp-server",
+            "console": "internalConsole",
+            "env": {
+                "NODE_ENV": "development",
+                "PORT": "5001"
+            }
+        },
+        {
+            "name": "Attach to MCP Server",
+            "type": "node",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Debug MCP Server",
+            "configurations": ["Launch MCP Server", "Attach to MCP Server"]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "subscription",
+            "type": "promptString",
+            "description": "Azure Subscription ID",
+            "default": ""
+        },
+        {
+            "id": "accountName",
+            "type": "promptString",
+            "description": "Cosmos DB Account Name",
+            "default": ""
+        },
+        {
+            "id": "workspaceId",
+            "type": "promptString",
+            "description": "Log Analytics Workspace ID",
+            "default": ""
+        }
+    ]
+}

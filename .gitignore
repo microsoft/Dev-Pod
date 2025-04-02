@@ -1,0 +1,48 @@
+# Ignorar arquivos de configuração sensíveis
+.mcp.json
+.env
+*.env
+**/.env
+.vscode/mcp.json
+config/api-keys.js
+
+# Ignorar diretórios específicos
+node_modules/
+logs/
+**/node_modules/
+**/dist/
+**/build/
+
+# Ignorar arquivos de build
+*.log
+*.tmp
+*.bak
+*.swp
+*.lock
+*.tmp.*
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Ignorar arquivos de configuração do MCP Server
+mcp-server/.env
+mcp-server/config/
+mcp-server/tools/*.js
+
+# Ignorar arquivos de chaves e credenciais
+**/*credentials*.json
+**/*secret*.json
+**/*key*.json
+**/*.pem
+**/*.key
+**/*.pub
+
+# Ignorar arquivos de configuração específicos do Azure
+**/*azureauth*.json
+**/*.publishsettings

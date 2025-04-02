@@ -24,8 +24,8 @@ A 6-month program that transforms development teams through hands-on training wi
 ## 🗺️ Program journey
 
 ### Phase 1: Foundations (Month 1)
-* **[Essential Git](https://github.com/devpods/git-basics)**: Efficient version control
-* **[GitHub Collaboration](https://github.com/devpods/github-basics)**: Transform how teams work together
+* **[Essential Git](./content/git-basics/)**: Efficient version control
+* **[GitHub Collaboration](./content/github-basics/)**: Transform how teams work together
 
 ### Phase 2: Development with AI (Months 2-3)
 * **[GitHub Copilot Basics](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: First steps with AI in development
@@ -48,7 +48,7 @@ The heart of the program is the formation of Black Belt communities - specialist
 * Share knowledge and mentorship
 * Create standards of excellence that elevate the entire organization
 
-[Learn more about the Black Belt community →](https://github.com/devpods/black-belt-community)
+[Learn more about the Black Belt community →](./content/black-belt-community/)
 
 ## 🎓 Official GitHub Certifications
 
@@ -76,7 +76,7 @@ Participants receive vouchers for official certifications:
 
 We operate in collaboration with technology partners that extend the program's capabilities.
 
-[Meet our partner network →](https://github.com/devpods/partners)
+[Meet our partner network →](./content/partners/)
 
 ## 📄 License
 
