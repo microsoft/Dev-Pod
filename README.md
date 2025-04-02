@@ -2,89 +2,89 @@
 
 ![Dev Pods Logo](images/dev-pod-logo.png)
 
-[🇧🇷 Português (Brasil)](./translations/pt-BR/README.md) | 
-[🇪🇸 Español (Latinoamérica)](./translations/es-LATAM/README.md)
+[🇧🇷 Português (Brasil)](./README-pt-BR.md) | 
+[🇪🇸 Español (Latinoamérica)](./README-es-LATAM.md)
 
-## O que é o Dev Pods?
+## What is Dev Pods?
 
-Um programa de 6 meses que transforma equipes de desenvolvimento através de treinamento prático com GitHub e ferramentas de IA. Criamos comunidades técnicas internas (Black Belts) que continuam gerando valor muito além do programa inicial.
+A 6-month program that transforms development teams through hands-on training with GitHub and AI tools. We create internal technical communities (Black Belts) that continue to generate value well beyond the initial program.
 
-**Não é apenas um treinamento - é uma transformação na forma como sua empresa desenvolve software.**
+**It's not just training - it's a transformation in how your company develops software.**
 
-## 💪 Por que participar?
+## 💪 Why participate?
 
-* **Comunidade técnica de elite**: Forme especialistas que compartilham conhecimento e impulsionam a inovação
-* **Produtividade com IA**: Acelere o desenvolvimento com GitHub Copilot e outras ferramentas de IA
-* **Melhores práticas**: Reduza bugs, acelere entregas e melhore a segurança do código
-* **Liderança técnica**: Desenvolva líderes que conectam visão de negócio e excelência técnica
-* **Resultados comprovados**: Empresas relatam 40% mais rapidez no onboarding e 63% menos problemas críticos
+* **Elite technical community**: Train specialists who share knowledge and drive innovation
+* **AI productivity**: Accelerate development with GitHub Copilot and other AI tools
+* **Best practices**: Reduce bugs, speed up deliveries, and improve code security
+* **Technical leadership**: Develop leaders who connect business vision and technical excellence
+* **Proven results**: Companies report 40% faster onboarding and 63% fewer critical issues
 
-[Perguntas frequentes →](./docs/faq.md)
+[Frequently Asked Questions →](./docs/faq.md)
 
-## 🗺️ Jornada do programa
+## 🗺️ Program journey
 
-### Fase 1: Fundamentos (Mês 1)
-* **[Git Essencial](https://github.com/devpods/git-basics)**: Controle de versão eficiente
-* **[Colaboração no GitHub](https://github.com/devpods/github-basics)**: Transforme como as equipes trabalham juntas
+### Phase 1: Foundations (Month 1)
+* **[Essential Git](https://github.com/devpods/git-basics)**: Efficient version control
+* **[GitHub Collaboration](https://github.com/devpods/github-basics)**: Transform how teams work together
 
-### Fase 2: Desenvolvimento com IA (Meses 2-3)
-* **[GitHub Copilot Básico](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: Primeiros passos com IA no desenvolvimento
-* **[GitHub Copilot por Linguagem](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: Especialização em JavaScript, Python e C#
-* **[Engenharia de Dados com IA](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: IA em pipelines de dados e ambientes CI/CD
+### Phase 2: Development with AI (Months 2-3)
+* **[GitHub Copilot Basics](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: First steps with AI in development
+* **[GitHub Copilot by Language](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: Specialization in JavaScript, Python, and C#
+* **[Data Engineering with AI](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: AI in data pipelines and CI/CD environments
 
-### Fase 3: Segurança e Migração (Mês 4)
-* **[Segurança Avançada](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Práticas e ferramentas para código seguro
-* **[Migração Estratégica](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Migração sem complicações com GitHub Actions
+### Phase 3: Security and Migration (Month 4)
+* **[Advanced Security](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Practices and tools for secure code
+* **[Strategic Migration](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Seamless migration with GitHub Actions
 
-### Fase 4: Inovação (Meses 5-6)
-* **[Extensões Personalizadas](https://github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br)**: Crie ferramentas de IA específicas para sua organização
-* **[Engenharia de Plataforma](https://github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br)**: Ambientes de desenvolvimento de próxima geração
+### Phase 4: Innovation (Months 5-6)
+* **[Custom Extensions](https://github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br)**: Create AI tools specific to your organization
+* **[Platform Engineering](https://github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br)**: Next-generation development environments
 
-## 🥋 Black Belts: Campeões de Excelência
+## 🥋 Black Belts: Champions of Excellence
 
-O coração do programa é a formação de comunidades Black Belt - especialistas que:
+The heart of the program is the formation of Black Belt communities - specialists who:
 
-* Lideram a inovação técnica dentro da empresa
-* Compartilham conhecimento e mentoria
-* Criam padrões de excelência que elevam toda a organização
+* Lead technical innovation within the company
+* Share knowledge and mentorship
+* Create standards of excellence that elevate the entire organization
 
-[Saiba mais sobre a comunidade Black Belt →](https://github.com/devpods/black-belt-community)
+[Learn more about the Black Belt community →](https://github.com/devpods/black-belt-community)
 
-## 🎓 Certificações GitHub Oficiais
+## 🎓 Official GitHub Certifications
 
-Participantes recebem vouchers para certificações oficiais:
+Participants receive vouchers for official certifications:
 
-* **GitHub Foundations**: Fundamentos de colaboração e fluxo de trabalho
-* **GitHub Copilot**: Desenvolvimento assistido por IA
-* **GitHub Advanced Security**: Recursos de segurança e boas práticas
+* **GitHub Foundations**: Collaboration and workflow fundamentals
+* **GitHub Copilot**: AI-assisted development
+* **GitHub Advanced Security**: Security features and best practices
 
-## 📈 Benefícios Reais
+## 📈 Real Benefits
 
-### Para Desenvolvedores
-* Maior produtividade com ferramentas de IA
-* Menos bugs e código de melhor qualidade
-* Certificações reconhecidas pelo mercado
-* Novas oportunidades de liderança técnica
+### For Developers
+* Increased productivity with AI tools
+* Fewer bugs and better quality code
+* Market-recognized certifications
+* New technical leadership opportunities
 
-### Para Empresas
-* Processos de desenvolvimento mais eficientes
-* Redução significativa de problemas críticos
-* Melhor retenção de talentos e conhecimento
-* Inovação contínua incorporada à cultura
+### For Companies
+* More efficient development processes
+* Significant reduction in critical issues
+* Better talent and knowledge retention
+* Continuous innovation embedded in the culture
 
-## 🤝 Parcerias Estratégicas
+## 🤝 Strategic Partnerships
 
-Operamos em colaboração com parceiros de tecnologia que ampliam as capacidades do programa.
+We operate in collaboration with technology partners that extend the program's capabilities.
 
-[Conheça nossa rede de parceiros →](https://github.com/devpods/partners)
+[Meet our partner network →](https://github.com/devpods/partners)
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <p align="center">
-Dev Pods: Ilhas de Excelência no Oceano do Desenvolvimento<br>
+Dev Pods: Islands of Excellence in the Ocean of Development<br>
 © 2025 Developer Productivity, Global Black Belt and Developer Relations Team from Microsoft
 </p>
