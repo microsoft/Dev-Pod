@@ -46,3 +46,24 @@ mcp-server/tools/*.js
 # Ignorar arquivos de configuração específicos do Azure
 **/*azureauth*.json
 **/*.publishsettings
+
+# Ignorar MCP Server completamente (conforme solicitado)
+mcp-server/
+**/mcp-server/
+**/mcp-server/**
+
+# Ignorar arquivos de status de tradução
+TRANSLATION_STATUS.md
+**/TRANSLATION_STATUS.md
+translations/**/TRANSLATION_STATUS.md
+docs/translations/**/TRANSLATION_STATUS.md
+
+# Ignorar diretório utils
+utils/
+**/utils/
+**/utils/**
+
+# Ignorar diretório de imagens
+images/
+**/images/
+**/images/**
