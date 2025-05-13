@@ -38,7 +38,7 @@ El Programa Dev Pods guía a los participantes a través de una progresión cuid
 ### Fase de Aceleración: Aprovechando la IA para el Desarrollo
 - **[Nivel 100 - Fundamentos de GitHub Copilot](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br/blob/main/README.es.md)**: Comience el viaje del desarrollo aumentado por IA con instalación, verificación y dominio de técnicas básicas de solicitud
 - **[Nivel 200 - Maestría en IA Específica por Lenguaje](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br/blob/main/README.es.md)**: Profundice la experiencia con JavaScript, Python y C# a través de asistencia de IA y uso avanzado de comandos slash e interfaces de chat
-- **[Nivel 300 - Ingeniería de Datos Potenciada por IA](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: Revolucione cómo trabaja con datos utilizando capacidades avanzadas de IA en entornos CI/CD y pipelines de datos
+- **[Nivel 300 - Ingeniería de Datos Potenciada por IA](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br/blob/main/README.es.md)**: Revolucione cómo trabaja con datos utilizando capacidades avanzadas de IA en entornos CI/CD y pipelines de datos
 
 ### Fase de Excelencia: Construyendo Capacidades Organizacionales
 - **[Nivel 200 - Integración Avanzada de Seguridad](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Implemente prácticas de seguridad potenciadas por IA que previenen vulnerabilidades y mantienen la salud de las dependencias
