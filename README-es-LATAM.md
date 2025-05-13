@@ -46,7 +46,7 @@ El Programa Dev Pods guía a los participantes a través de una progresión cuid
 
 ### Fase de Innovación: Liderando el Futuro
 - **[Nivel 400 - Extensiones Personalizadas de IA](https://github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br)**: Cree herramientas propietarias de IA adaptadas a las necesidades únicas de su organización y publique en GitHub Marketplace
-- **[Nivel 400 - Liderazgo en Ingeniería de Plataforma](https://github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br)**: Establezca entornos de desarrollo de próxima generación que simplifican la gestión de Azure y el despliegue de software
+- **[Nivel 400 - Liderazgo en Ingeniería de Plataforma](https://github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br/blob/main/README.es.md)**: Establezca entornos de desarrollo de próxima generación que simplifican la gestión de Azure y el despliegue de software
 
 ## ⚔️ La Élite de Cinturón Negro: Sus Campeones Internos
 
