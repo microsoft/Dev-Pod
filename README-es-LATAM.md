@@ -42,7 +42,7 @@ El Programa Dev Pods guía a los participantes a través de una progresión cuid
 
 ### Fase de Excelencia: Construyendo Capacidades Organizacionales
 - **[Nivel 200 - Integración Avanzada de Seguridad](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br/blob/main/README.es.md)**: Implemente prácticas de seguridad potenciadas por IA que previenen vulnerabilidades y mantienen la salud de las dependencias
-- **[Nivel 300 - Ingeniería de Migración Estratégica](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Domine el arte de la migración perfecta con GitHub Actions Importer y planificación estructurada de migración
+- **[Nivel 300 - Ingeniería de Migración Estratégica](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br/blob/main/README.es.md)**: Domine el arte de la migración perfecta con GitHub Actions Importer y planificación estructurada de migración
 
 ### Fase de Innovación: Liderando el Futuro
 - **[Nivel 400 - Extensiones Personalizadas de IA](https://github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br)**: Cree herramientas propietarias de IA adaptadas a las necesidades únicas de su organización y publique en GitHub Marketplace
