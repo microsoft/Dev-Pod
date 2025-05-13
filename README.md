@@ -28,17 +28,17 @@ A 6-month program that transforms development teams through hands-on training wi
 * **[GitHub Collaboration](./content/github-basics/)**: Transform how teams work together
 
 ### Phase 2: Development with AI (Months 2-3)
-* **[GitHub Copilot Basics](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: First steps with AI in development
-* **[GitHub Copilot by Language](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)**: Specialization in JavaScript, Python, and C#
-* **[Data Engineering with AI](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)**: AI in data pipelines and CI/CD environments
+* **[GitHub Copilot Basics](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)**: First steps with AI in development
+* **[GitHub Copilot by Language](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)**: Specialization in JavaScript, Python, and C#
+* **[Data Engineering with AI](https://github.com/githubuniverseworkshops/data-with-copilot)**: AI in data pipelines and CI/CD environments
 
 ### Phase 3: Security and Migration (Month 4)
-* **[Advanced Security](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Practices and tools for secure code
-* **[Strategic Migration](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Seamless migration with GitHub Actions
+* **[Advanced Security](https://github.com/microsoft/aitour-github-advanced-security-workflow)**: Practices and tools for secure code
+* **[Strategic Migration](https://github.com/github/gh-actions-importer)**: Seamless migration with GitHub Actions
 
 ### Phase 4: Innovation (Months 5-6)
-* **[Custom Extensions](https://github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br)**: Create AI tools specific to your organization
-* **[Platform Engineering](https://github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br)**: Next-generation development environments
+* **[Custom Extensions](https://github.com/githubuniverseworkshops/build-custom-copilot-extensions)**: Create AI tools specific to your organization
+* **[Platform Engineering](https://github.com/microsoft/hands-on-lab-platform-engineering-for-devs)**: Next-generation development environments
 
 ## 🥋 Black Belts: Champions of Excellence
 

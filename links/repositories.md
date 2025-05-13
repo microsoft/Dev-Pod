@@ -21,7 +21,7 @@ This document provides a comprehensive listing of all repositories associated wi
 ## AI Development Repositories
 
 ### GitHub Copilot Fundamentals (Level 100)
-- **Repository URL**: [github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)
+- **Repository URL**: [github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 - **Description**: Comprehensive introduction to GitHub Copilot, covering extension installation and activation, verification procedures, troubleshooting common issues, basic functionality with autocompletion, and fundamental prompting techniques using comments.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
@@ -29,7 +29,7 @@ This document provides a comprehensive listing of all repositories associated wi
 - **Prerequisites**: Level 50 - GitHub Basics
 
 ### Language-Specific AI Development (Level 200)
-- **Repository URL**: [github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br](https://github.com/paulanunes85/Mastering-GitHub-Copilot-for-Paired-Programming-pt-br)
+- **Repository URL**: [github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 - **Description**: Advanced GitHub Copilot implementation focused on JavaScript, Python, and C# development. Includes real-world use cases, exploration of the chat interface, and advanced techniques like slash commands (/docs, /tests) and agents (@workspace).
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
@@ -37,7 +37,7 @@ This document provides a comprehensive listing of all repositories associated wi
 - **Prerequisites**: Level 100 - GitHub Copilot Fundamentals
 
 ### AI-Powered Data Engineering (Level 300)
-- **Repository URL**: [github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br)
+- **Repository URL**: [github.com/githubuniverseworkshops/data-with-copilot](https://github.com/githubuniverseworkshops/data-with-copilot)
 - **Description**: Advanced implementation of GitHub Copilot for data projects, featuring slash commands, inline chat, and specialized agents. Learn to apply AI suggestions to data workflows and build tools for working with data in CI/CD environments and data pipelines.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
@@ -47,7 +47,7 @@ This document provides a comprehensive listing of all repositories associated wi
 ## Security and Migration Repositories
 
 ### Advanced Security Integration (Level 200)
-- **Repository URL**: [github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)
+- **Repository URL**: [github.com/microsoft/aitour-github-advanced-security-workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
 - **Description**: Workshop in Portuguese focused on GitHub Advanced Security, teaching prevention of common security issues, AI-powered vulnerability detection and remediation, and dependency management best practices.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
@@ -55,7 +55,7 @@ This document provides a comprehensive listing of all repositories associated wi
 - **Prerequisites**: Level 50 - GitHub Basics
 
 ### Strategic Migration Engineering (Level 300)
-- **Repository URL**: [github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)
+- **Repository URL**: [github.com/github/gh-actions-importer](https://github.com/github/gh-actions-importer)
 - **Description**: Comprehensive guide to migration concepts and tools for GitHub, including supported migration paths, structured approaches to migration planning, and implementation techniques using GitHub Actions Importer.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
@@ -65,7 +65,7 @@ This document provides a comprehensive listing of all repositories associated wi
 ## Advanced Innovation Repositories
 
 ### Custom AI Extensions (Level 400)
-- **Repository URL**: [github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br](https://github.com/paulanunes85/Build-Custom-Copilot-Extensions-pt-br)
+- **Repository URL**: [github.com/githubuniverseworkshops/build-custom-copilot-extensions](https://github.com/githubuniverseworkshops/build-custom-copilot-extensions)
 - **Description**: Advanced workshop on building custom GitHub Copilot extensions, including implementing core functionality for an Agent that connects with external APIs, extending Agent context with metadata, and publishing extensions to GitHub Marketplace.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
@@ -73,7 +73,7 @@ This document provides a comprehensive listing of all repositories associated wi
 - **Prerequisites**: Level 300 - AI-Powered Data Engineering
 
 ### Platform Engineering Leadership (Level 400)
-- **Repository URL**: [github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br](https://github.com/paulanunes85/hands-on-lab-platform-engineering-for-devs-pt-br)
+- **Repository URL**: [github.com/microsoft/hands-on-lab-platform-engineering-for-devs](https://github.com/microsoft/hands-on-lab-platform-engineering-for-devs)
 - **Description**: Advanced implementation of platform engineering principles, focusing on personalized remote environments for rapid project initiation, temporary testing environments for evaluating modifications, and tools for streamlining Azure environment management and software deployment.
 - **Primary Maintainer**: Paula Nunes (@paulanunes85)
 - **Status**: Active
