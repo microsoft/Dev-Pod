@@ -41,7 +41,7 @@ El Programa Dev Pods guía a los participantes a través de una progresión cuid
 - **[Nivel 300 - Ingeniería de Datos Potenciada por IA](https://github.com/paulanunes85/Data-With-GitHub-Copilot-pt-br/blob/main/README.es.md)**: Revolucione cómo trabaja con datos utilizando capacidades avanzadas de IA en entornos CI/CD y pipelines de datos
 
 ### Fase de Excelencia: Construyendo Capacidades Organizacionales
-- **[Nivel 200 - Integración Avanzada de Seguridad](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br)**: Implemente prácticas de seguridad potenciadas por IA que previenen vulnerabilidades y mantienen la salud de las dependencias
+- **[Nivel 200 - Integración Avanzada de Seguridad](https://github.com/paulanunes85/Github-Advanced-Security-Workflow-pt-br/blob/main/README.es.md)**: Implemente prácticas de seguridad potenciadas por IA que previenen vulnerabilidades y mantienen la salud de las dependencias
 - **[Nivel 300 - Ingeniería de Migración Estratégica](https://github.com/paulanunes85/Migration-GH-Actions-Importer-pt-br)**: Domine el arte de la migración perfecta con GitHub Actions Importer y planificación estructurada de migración
 
 ### Fase de Innovación: Liderando el Futuro
